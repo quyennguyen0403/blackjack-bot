@@ -1,2 +1,4 @@
 # Blackjack-Bot
-Creating a blackjack player using reinforcement learning 
+Creating a blackjack player using reinforcement learning.
+
+
