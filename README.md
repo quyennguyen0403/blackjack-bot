@@ -1,4 +1,6 @@
 # Blackjack-Bot
+#### Project by Omeed Fallahi, Danny Farid, and Max Sun
+
 Creating a blackjack player using reinforcement learning and Q-learning techniques.
 
 Blackjack, also known as twenty-one, is a popular card game that is played around the world. Each player competes against the dealer to have the better hand -- one where the sum of the card values are closest to 21 without exceeding 21.
